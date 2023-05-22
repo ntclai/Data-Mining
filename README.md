@@ -9,7 +9,3 @@
 - **Lab03:** Classification & Clustering
 
 - **Lab04:** Decision Tree & Bayes Theorem
-
-
- 
- Link all assignments: https://git.ducnn.com/DoCS/CSC14005_Assignments.git

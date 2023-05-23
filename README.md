@@ -4,8 +4,8 @@
  
 - **Lab01:** Preprocessing and Data Discovery (Weka | python)
  
-- **Lab02:** Frequent Itemset Mining
+- **Lab02:** Frequent Itemset Mining (jupyter)
 
-- **Lab03:** Classification & Clustering
+- **Lab03:** Classification & Clustering (jupyter)
 
-- **Lab04:** Decision Tree & Bayes Theorem
+- **Lab04:** Decision Tree & Bayes Theorem (jupyter)
